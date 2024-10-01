@@ -1,0 +1,10 @@
+This is a Practice project made by me to help me understand C++ and Encrytion in a better way.
+The goal of the project is to make a XOR encrytion/decyption program in C++ which takes in text from the user
+and encrypts or decrypts it with the help of key provided by the user.
+
+Problems I faced:
+Turns out values like 1,2 or 3 don't have any anscii character that can be understood by normal humans, hence the
+need to use special character for the encryptor to work properly.
+
+What I learned:
+I learned that having an outline is quite good when it comes to doing stuff. I even learned that anscii values not always have a displayable character associated with them.
